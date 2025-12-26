@@ -68,6 +68,3 @@ python main.py --company "notion" --start-date 2024-01-01 --end-date 2025-03-31 
 ## Future Improvements
 - Integrate 3rd-party Captcha solving APIs (e.g., 2Captcha).
 - Support for rotating residential proxies.
-
-## License
-MIT
